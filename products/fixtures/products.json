@@ -1,0 +1,172 @@
+{
+    "items": [
+      {
+        "sku": "CK1001",
+        "name": "Chocolate Cake",
+        "description": "Rich and moist chocolate cake topped with chocolate ganache.",
+        "price": 25.99,
+        "image": "chocolate_cake.jpg",
+        "category": "Cakes"
+      },
+      {
+        "sku": "CC1002",
+        "name": "Red Velvet Cupcake",
+        "description": "Classic red velvet cupcake topped with cream cheese frosting.",
+        "price": 3.99,
+        "image": "red_velvet_cupcake.jpg",
+        "category": "Cupcakes"
+      },
+      {
+        "sku": "MU1003",
+        "name": "Blueberry Muffin",
+        "description": "Delicious blueberry muffin made with fresh blueberries.",
+        "price": 2.49,
+        "image": "blueberry_muffin.jpg",
+        "category": "Muffins"
+      },
+      {
+        "sku": "CK1004",
+        "name": "Vanilla Bean Cheesecake",
+        "description": "Creamy vanilla bean cheesecake with graham cracker crust.",
+        "price": 32.99,
+        "image": "vanilla_cheesecake.jpg",
+        "category": "Cheesecakes"
+      },
+      {
+        "sku": "TA1005",
+        "name": "Lemon Tart",
+        "description": "Tangy lemon tart with a buttery crust, topped with powdered sugar.",
+        "price": 18.99,
+        "image": "lemon_tart.jpg",
+        "category": "Tarts"
+      },
+      {
+        "sku": "CK1006",
+        "name": "Carrot Cake",
+        "description": "Moist carrot cake with cream cheese frosting and walnuts.",
+        "price": 28.99,
+        "image": "carrot_cake.jpg",
+        "category": "Cakes"
+      },
+      {
+        "sku": "CO1007",
+        "name": "Chocolate Chip Cookies",
+        "description": "Classic chocolate chip cookies baked to perfection.",
+        "price": 10.99,
+        "image": "chocolate_chip_cookies.jpg",
+        "category": "Cookies"
+      },
+      {
+        "sku": "PI1008",
+        "name": "Apple Pie",
+        "description": "Traditional apple pie with a flaky crust, filled with cinnamon-spiced apples.",
+        "price": 22.99,
+        "image": "apple_pie.jpg",
+        "category": "Pies"
+      },
+      {
+        "sku": "BR1009",
+        "name": "Raspberry Swirl Brownie",
+        "description": "Fudgy brownie swirled with raspberry puree for a fruity twist.",
+        "price": 4.99,
+        "image": "raspberry_brownie.jpg",
+        "category": "Brownies"
+      },
+      {
+        "sku": "CK1010",
+        "name": "Strawberry Shortcake",
+        "description": "Classic strawberry shortcake with fresh strawberries and whipped cream.",
+        "price": 15.99,
+        "image": "strawberry_shortcake.jpg",
+        "category": "Cakes"
+      },
+      {
+        "sku": "CC1011",
+        "name": "Peanut Butter Cupcake",
+        "description": "Decadent peanut butter cupcake topped with peanut butter frosting.",
+        "price": 4.49,
+        "image": "peanut_butter_cupcake.jpg",
+        "category": "Cupcakes"
+      },
+      {
+        "sku": "BR1012",
+        "name": "Banana Nut Bread",
+        "description": "Homemade banana nut bread with walnuts and a hint of cinnamon.",
+        "price": 12.99,
+        "image": "banana_nut_bread.jpg",
+        "category": "Breads"
+      },
+      {
+        "sku": "PI1013",
+        "name": "Key Lime Pie",
+        "description": "Refreshing key lime pie with a tart lime filling and whipped cream topping.",
+        "price": 20.99,
+        "image": "key_lime_pie.jpg",
+        "category": "Pies"
+      },
+      {
+        "sku": "CK1014",
+        "name": "Oreo Cheesecake",
+        "description": "Creamy cheesecake loaded with chunks of Oreo cookies.",
+        "price": 34.99,
+        "image": "oreo_cheesecake.jpg",
+        "category": "Cheesecakes"
+      },
+      {
+        "sku": "PA1015",
+        "name": "Chocolate Croissant",
+        "description": "Flaky croissant filled with rich chocolate.",
+        "price": 3.49,
+        "image": "chocolate_croissant.jpg",
+        "category": "Pastries"
+      },
+      {
+        "sku": "PI1016",
+        "name": "Pecan Pie",
+        "description": "Classic pecan pie with a gooey filling and a buttery crust.",
+        "price": 25.99,
+        "image": "pecan_pie.jpg",
+        "category": "Pies"
+      },
+      {
+        "sku": "PA1017",
+        "name": "Cinnamon Roll",
+        "description": "Soft and fluffy cinnamon roll with swirls of cinnamon sugar and icing.",
+        "price": 5.99,
+        "image": "cinnamon_roll.jpg",
+        "category": "Pastries"
+      },
+      {
+        "sku": "CO1018",
+        "name": "Coconut Macaroons",
+        "description": "Chewy coconut macaroons dipped in chocolate.",
+        "price": 8.99,
+        "image": "coconut_macaroons.jpg",
+        "category": "Cookies"
+      },
+      {
+        "sku": "MU1019",
+        "name": "Lemon Poppy Seed Muffin",
+        "description": "Moist muffin bursting with lemon flavor and poppy seeds.",
+        "price": 2.99,
+        "image": "lemon_poppy_seed_muffin.jpg",
+        "category": "Muffins"
+      },
+      {
+        "sku": "CK1020",
+        "name": "Black Forest Cake",
+        "description": "Layers of chocolate sponge cake filled with cherries and whipped cream.",
+        "price": 30.99,
+        "image": "black_forest_cake.jpg",
+        "category": "Cakes"
+      },
+      {
+        "sku": "PA1021",
+        "name": "Almond Croissant",
+        "description": "Buttery croissant filled with almond paste and topped with sliced almonds.",
+        "price": 4.49,
+        "image": "almond_croissant.jpg",
+        "category": "Pastries"
+      }
+    ]
+  }
