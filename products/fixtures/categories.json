@@ -1,0 +1,44 @@
+{
+    "categories": [
+      {
+        "id": "CAK",
+        "name": "Cakes"
+      },
+      {
+        "id": "CUP",
+        "name": "Cupcakes"
+      },
+      {
+        "id": "MUF",
+        "name": "Muffins"
+      },
+      {
+        "id": "PIE",
+        "name": "Pies"
+      },
+      {
+        "id": "BRW",
+        "name": "Brownies"
+      },
+      {
+        "id": "CKI",
+        "name": "Cookies"
+      },
+      {
+        "id": "TAR",
+        "name": "Tarts"
+      },
+      {
+        "id": "PAS",
+        "name": "Pastries"
+      },
+      {
+        "id": "BRD",
+        "name": "Breads"
+      },
+      {
+        "id": "CHC",
+        "name": "Cheesecakes"
+      }
+    ]
+  }
